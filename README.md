@@ -28,8 +28,8 @@ To run Ohio Trail, you will need to have Ruby installed on your system.
 <table margin="0 auto">
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/JillKlatt"><img src="https://avatars.githubusercontent.com/u/76976045?v=4" height="auto" width="100" style="border-radius:50%"><br/></a><figcaption>Jill Klatt</figcaption></td>
-<td align="center"><a href="https://github.com/raquii"><img src="https://avatars.githubusercontent.com/u/82777181?v=4" height="auto" width="100" style="border-radius:50%"></a><figcaption>Raquel Román-Rodriguez</figcaption></td>
+<td align="center"><a href="https://github.com/JillKlatt"><img src="https://avatars.githubusercontent.com/u/76976045?v=4" height="auto" width="100" style="border-radius:50%"></a><br/><figcaption>Jill Klatt</figcaption></td>
+<td align="center"><a href="https://github.com/raquii"><img src="https://avatars.githubusercontent.com/u/82777181?v=4" height="auto" width="100" style="border-radius:50%"></a><br/><figcaption>Raquel Román-Rodriguez</figcaption></td>
 </tr>
 </tbody>
 </table>
